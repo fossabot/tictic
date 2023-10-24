@@ -1,4 +1,6 @@
 # tictic
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fteplostanski%2Ftictic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fteplostanski%2Ftictic?ref=badge_shield)
+
 
 A versatile and efficient JavaScript library for formatting date and time.
 
@@ -80,3 +82,5 @@ For a deep dive into each method and its options, please refer to the source cod
 
 ## License
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See [LICENSE.md](https://github.com/teplostanski/tictic/blob/main/LICENSE.md) for more details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fteplostanski%2Ftictic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fteplostanski%2Ftictic?ref=badge_large)
